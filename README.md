@@ -8,18 +8,16 @@ Stack: Expo SDK 57, React Native, TypeScript, Expo Router (file-based routing in
 
 ## Prerequisites (Windows)
 
-Install Node.js LTS and Git:
+Install Node.js LTS:
 
 ```powershell
 winget install OpenJS.NodeJS.LTS
-winget install Git.Git
 ```
 
 Close and reopen PowerShell, then check:
 
 ```powershell
 node -v
-git --version
 ```
 
 Android Studio is optional. You only need it to run an Android emulator (see [Android emulator](#android-emulator-windows)).
